@@ -34,7 +34,7 @@ h2 {
 
 .dev-fields {
 	text-align: center;
-	color: #000;
+	color: #6C529C;
 }
 
 .nav-css {
@@ -142,4 +142,31 @@ h2 {
 	background-color: #FDC128;
 	color: white;
 	border-radius: 100px;
+}
+
+.path {
+	margin-top: 60px;
+	margin-bottom: -60px;
+	margin-left: 150px;
+	padding-top: 40px;
+	font-size: 25px;
+	color: #6C529C;
+	font-weight: bold;
+}
+
+#img-gal {
+	background-color: #F9F4FA;
+}
+
+.fa-crown {
+	background-color: #8B49F5;
+	color: #FDC128;
+	font-size: 30px;
+	padding: 15px 10px 10px 10px;
+	border-radius: 15px;
+	margin-right: 20px;
+}
+
+.imgs {
+	margin-top: 10px;
 }
