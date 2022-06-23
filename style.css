@@ -155,7 +155,10 @@ h2 {
 }
 
 #img-gal {
-	background-color: #F9F4FA;
+	background-color: #F4E7F9;
+	background-color: #fff;
+	/* padding-bottom: 10px; */
+	padding-bottom: 10px;
 }
 
 .fa-crown {
@@ -168,5 +171,36 @@ h2 {
 }
 
 .imgs {
+	margin-top: 10px;
+}
+
+footer {
+	/* background-color: #FCFAFD;  */
+	background-color: #F4E7F9;
+	padding-bottom: 40px;
+}
+
+.row {
+	display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-top: 40px;
+}
+
+.foot-logo {
+	color: #7057A8;
+}
+
+.foot-notes {
+	color: #7057A8;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+.foot-par {
+	color: #A49AB5;
+	font-weight: bold;
 	margin-top: 10px;
 }
