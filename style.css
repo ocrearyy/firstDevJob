@@ -34,7 +34,7 @@ h2 {
 
 .dev-fields {
 	text-align: center;
-	color: #000;
+	color: #6C529C;
 }
 
 .nav-css {
@@ -142,4 +142,65 @@ h2 {
 	background-color: #FDC128;
 	color: white;
 	border-radius: 100px;
+}
+
+.path {
+	margin-top: 60px;
+	margin-bottom: -60px;
+	margin-left: 150px;
+	padding-top: 40px;
+	font-size: 25px;
+	color: #6C529C;
+	font-weight: bold;
+}
+
+#img-gal {
+	background-color: #F4E7F9;
+	background-color: #fff;
+	/* padding-bottom: 10px; */
+	padding-bottom: 10px;
+}
+
+.fa-crown {
+	background-color: #8B49F5;
+	color: #FDC128;
+	font-size: 30px;
+	padding: 15px 10px 10px 10px;
+	border-radius: 15px;
+	margin-right: 20px;
+}
+
+.imgs {
+	margin-top: 10px;
+}
+
+footer {
+	/* background-color: #FCFAFD;  */
+	background-color: #F4E7F9;
+	padding-bottom: 40px;
+}
+
+.row {
+	display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-top: 40px;
+}
+
+.foot-logo {
+	color: #7057A8;
+}
+
+.foot-notes {
+	color: #7057A8;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+.foot-par {
+	color: #A49AB5;
+	font-weight: bold;
+	margin-top: 10px;
 }
