@@ -4,6 +4,7 @@ A landing page for website that provides a roadmap for developer to land their f
 
 ## Screenshots
 
+![screenshot (1)](https://user-images.githubusercontent.com/40554384/184492931-450433b6-b08c-4cdf-ad07-af699f8ab31a.png)
 
 
 ## 🚀 About Me
