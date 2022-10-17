@@ -66,6 +66,7 @@ h2 {
   margin-right: 50px;
   color: #ddc6fc;
   font-weight: bolder;
+  padding-left: 50px;
 }
 
 #first {
@@ -204,4 +205,8 @@ footer {
   color: #a49ab5;
   font-weight: bold;
   margin-top: 10px;
+}
+
+.nav-btn {
+  margin-left: 10px;
 }
