@@ -19,7 +19,7 @@ I'm a full stack developer, Building solutions to change the world....
 
 ## Live Demo (Responsive Web Design for Mobile and Desktop)
 
-[Live Demo Link](ocrearyy.github.io/firstdevjob/)
+[Live Demo Link](https://ocrearyy.github.io/firstDevJob/)
 
 
 ## Getting Started
